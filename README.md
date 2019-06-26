@@ -14,7 +14,7 @@ El detalle de cada producto se verá de la siguiente forma.
  Donde obtendremos toda la información de la gafa.
  
 Y por último tenemos nuestro carito de la compra:
-![alt_text](https://github.com/GeeksHubsAcademy/ProyectoEcommerceProyectoEcommerce/blob/master/tienda%20geek%20carrito%20de%20compra.jpg)
+![alt_text](https://github.com/GeeksHubsAcademy/ProyectoEcommerce/blob/master/tienda%20geek%20carrito%20de%20compra.jpg)
 Aquí se encuentra toda la información y detalles de las gafas que hemos adquirido así como en la parte inferior debe aparecer un listado de otras gafas.
 
 ---
